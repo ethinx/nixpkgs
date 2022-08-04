@@ -14876,4 +14876,10 @@
     github = "yisuidenghua";
     githubId = 102890144;
   };
+  ethinx = {
+   email = "eth2net@gmail.com";
+   name = "York Wong";
+   github = "ethinx";
+   githubId = 965612;
+  };
 }
